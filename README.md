@@ -1,3 +1,19 @@
+
+# PPT Church MVP
+
+给教会使用的投影软件原型（MVP v0）。
+
+## 当前已完成
+- 文本编辑 → 投影区实时同步
+- 编辑模式 / 投影模式切换
+- 稳定可运行的投影画布
+
+## 当前不做
+- 复杂特效
+- 持久化存储
+- 多模块管理
+
+---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
