@@ -50,3 +50,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 功能规划（Roadmap｜简化）
+
+> 当前版本为演示原型（MVP v0），用于验证教会投影使用体验。
+
+规划中功能（按实际需要逐步加入）：
+- 视频播放（敬拜 / 儿童诗歌）
+- 音频播放（背景音乐 / 伴奏）
+- 更简单的投影流程切换
+
+设计原则：
+- 以现场稳定为第一优先级
+- 不追求复杂特效
